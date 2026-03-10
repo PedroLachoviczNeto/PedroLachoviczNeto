@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou o Peter (Pedro) Lachovicz Neto 👋</h1>
+  <h1>Olá! Eu sou o Pedro Lachovicz Neto 👋</h1>
   <h3>Especialista em Desenvolvimento Humano | Liderança | Inovação Educacional</h3>
   
   <a href="https://linkedin.com/in/pedro-lachovicz-neto" target="_blank">
