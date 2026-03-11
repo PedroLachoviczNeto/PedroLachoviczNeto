@@ -31,14 +31,6 @@ Busco aplicar minha visão sistêmica e capacidade de adaptação para **impulsi
 
 ---
 
-## 📊 Visão Geral do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroLachoviczNeto&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
-</div>
-
----
-
 ## 🛠️ Core Skills e Habilidades
 
 <div align="center">
@@ -102,8 +94,16 @@ Busco aplicar minha visão sistêmica e capacidade de adaptação para **impulsi
 ---
 
 ## ⚡ Além do currículo...
-- 🏃‍♂️ Quando não estou liderando equipes ou dando aulas, você provavelmente vai me encontrar **correndo** ou praticando **natação**.
-- 🎵 Sou apaixonado por música e gosto de tirar um som no teclado e no violão.
+
+- 🏃‍♂️ Quando não estou liderando equipes ou dando aulas, você provavelmente vai me encontrar acumulando quilômetros. Dá uma olhada nas minhas atividades recentes:
+
+<div align="center">
+  <a href="https://www.strava.com/athletes/108068598" target="_blank">
+    <img src="https://strava-github-profile.vercel.app/api?uid=108068598&theme=radium&show_icons=true" alt="Estatísticas do Strava do Peter">
+  </a>
+</div>
+
+- 🎵 Sou apaixonado por música gospel e gosto de tirar um som no teclado e no violão.
 - 👨‍👩‍👧‍👧 Sou pai da Alice, da Laís e da Heloísa, e casado com uma psicóloga. Ou seja: o comportamento humano e o desenvolvimento infantil são assuntos até no café da manhã lá em casa!
 - 📍 Diretamente de Cascavel, PR para o mundo.
 
