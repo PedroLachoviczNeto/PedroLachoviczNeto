@@ -95,11 +95,11 @@ Busco aplicar minha visão sistêmica e capacidade de adaptação para **impulsi
 
 ## ⚡ Além do currículo...
 
-- 🏃‍♂️ Quando não estou liderando equipes ou dando aulas, você provavelmente vai me encontrar acumulando quilômetros. Dá uma olhada nas minhas atividades recentes:
+- 🏃‍♂️ Quando não estou liderando equipes ou dando aulas, você provavelmente vai me encontrar acumulando quilômetros. Acompanhe minhas corridas e treinos:
 
 <div align="center">
   <a href="https://www.strava.com/athletes/108068598" target="_blank">
-    <img src="https://strava-github-profile.vercel.app/api?uid=108068598&theme=radium&show_icons=true" alt="Estatísticas do Strava do Peter">
+    <img src="https://img.shields.io/badge/Strava-Acompanhe_meus_treinos-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Meu Perfil no Strava">
   </a>
 </div>
 
