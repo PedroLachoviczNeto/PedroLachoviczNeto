@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.linkedin.com/in/pedro-lachovicz-neto/" width="180" style="border-radius: 50%; border: 4px solid #0077B5;" alt="Foto de Peter">
+  <img src="https://avatars.githubusercontent.com/u/267164264?s=400&u=d563d4b450c6a7fccf6ae79c9f7f20fad28ce491&v=4" width="180" style="border-radius: 50%; border: 4px solid #0077B5;" alt="Foto de Peter">
   
   <h1>Olá! Eu sou o Pedro Lachovicz Neto 👋</h1>
   <h3>Desenvolvimento Humano | Liderança | Inovação Educacional</h3>
@@ -34,7 +34,7 @@ Busco aplicar minha visão sistêmica e capacidade de adaptação para **impulsi
 ## 📊 Visão Geral do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroLachoviczNeto&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---
